@@ -1,0 +1,1 @@
+domemaster -o jpeg -s 1680 f_output.jpg l_output.jpg b_output.jpg r_output.jpg u_output.jpg
